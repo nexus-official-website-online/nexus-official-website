@@ -44,3 +44,5 @@ To effectively navigate Nexus Market, you should think about implementing these 
 ### Legal Disclaimer:
 
 This guide is created solely for educational purposes. The information offered is intended to increase awareness and understanding of darknet operations. We neither endorse, nor promote any illegal activities. Always comply with the laws and regulations of your jurisdiction.
+
+Update:  06/26/2025 09-08
